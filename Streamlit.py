@@ -4,8 +4,6 @@ import base64
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-from st_aggrid import AgGrid, GridUpdateMode, JsCode
-from st_aggrid.grid_options_builder import GridOptionsBuilder
 
 
 st.title('Player Stats Explorer')
